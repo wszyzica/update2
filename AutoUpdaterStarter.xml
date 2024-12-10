@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>2.7.0.1</version>
-    <url>https://gitee.com/crazyhan__5/ica-for-wszyz-new/releases/download/2.7.0.2/Setup2.7.0.2.exe</url>
+    <version>2.7.2.0</version>
+    <url>https://gitee.com/crazyhan__5/ica-for-wszyz-new/releases/download/2.7.2.0crossdomain/2.7.2.0(crossdomain).exe</url>
     <changelog>https://wszyzica.github.io/update/updatelog.html</changelog>
     <mandatory mode="2">false</mandatory>
 </item>
